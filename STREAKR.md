@@ -12,7 +12,7 @@ Then it syncs my data to a server I don't control, sends me push notifications I
 
 I've tried Habitica, Streaks, Habit — good apps, all of them. But somewhere between creating my account and setting up my first habit, I always felt a small friction. A reminder that I'm not really the user. I'm the product.
 
-So on Day 4 of my #30AppsIn30Days challenge, I built something different.
+So on Day 2 of my #30AppsIn30Days challenge, I built something different.
 
 ---
 
